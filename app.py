@@ -17,11 +17,11 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 # ============================================================
 # ⚙️ CONFIG
 # ============================================================
-BOT_TOKEN = "8782517727:AAGN8Z3-0x_BAeETMuE-V29SRb7oEaLf9g0"      # @BotFather se le
+BOT_TOKEN = "8782517727:AAHksGRh_0_eZ3nYTXs0EW2py15KjjJ1tG4"      # @BotFather se le
 ADMIN_IDS = [6841090981]                 # @userinfobot se apni ID
 MAX_THREADS = 80                        # Parallel threads
 REQUEST_DELAY = 0.05
-REQUEST_TIMEOUT = 10
+REQUEST_TIMEOUT = 15
 PROGRESS_EVERY = 30                     # Har 30 cycles pe update
 
 logging.basicConfig(
