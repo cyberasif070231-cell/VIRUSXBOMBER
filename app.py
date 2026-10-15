@@ -19,7 +19,7 @@ from flask import Flask
 # ============================================================
 # ⚙️ CONFIG
 # ============================================================
-BOT_TOKEN = "8782517727:AAFvc7w5k6bwaey9VVcRJCs_xH5PE-nLOjg"      # @BotFather se le
+BOT_TOKEN = "8747605629:AAG_2obZeLoDkDWhw15E7WImnX7vvTaC3fQ"      # @BotFather se le
 ADMIN_IDS = [6841090981]                 # @userinfobot se apni ID
 MAX_THREADS = 80                        # Parallel threads
 REQUEST_DELAY = 0.05
