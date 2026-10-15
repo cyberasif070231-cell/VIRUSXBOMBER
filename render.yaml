@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: virusxbomber
+    env: docker
+    plan: free
+    autoDeploy: true
+    
